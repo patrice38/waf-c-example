@@ -12,6 +12,9 @@ void libb_hello() {
 }
 
 void libb_how_are_you() {
+}
+
+void libb_happy() {
 
 }
 
