@@ -12,4 +12,7 @@ void liba_greetings() {
 void liba_comments() {
 
 }
+void liba_report() {
+
+}
 /* EOF */
