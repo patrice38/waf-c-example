@@ -9,5 +9,7 @@ void liba_hello() {
 void liba_greetings() {
 
 }
+void liba_comments() {
 
+}
 /* EOF */
