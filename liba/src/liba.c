@@ -20,7 +20,7 @@ void liba_truc2() {
 
 }
 
-void liba_bidule() {
+void liba_bidule2() {
 
 }
 
