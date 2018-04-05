@@ -19,5 +19,10 @@ void liba_truc2() {
 
 }
 
+void liba_bidule() {
+
+}
+
+
 
 /* EOF */
