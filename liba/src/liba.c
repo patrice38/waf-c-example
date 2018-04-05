@@ -15,7 +15,7 @@ void liba_comments() {
 void liba_report() {
 
 }
-void liba_truc() {
+void liba_truc2() {
 
 }
 
